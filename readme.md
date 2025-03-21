@@ -1,0 +1,2 @@
+->> npx create-react-app filename // old version way
+->> we use vite and parcel for modern react development
